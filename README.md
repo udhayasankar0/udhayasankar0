@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋 I'm UD!
 
-<!--
-**udhayasankar0/udhayasankar0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science student** and an **Open Source Enthusiast** who enjoys building cool projects, contribute to FOSS, and explore the world of **game development, frontend engineering, and AI-driven applications**.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on **a sequel to my Luca game, my portfolio, and building the UD Studio site**.
+- 🌱 I’m currently learning **React, Tailwind CSS, and improving my English skills**.
+- 👯 I’m looking to collaborate on **Open Source, Web Development, and Game Development projects**.
+- 🤔 I’m looking for help with **advanced web technologies concepts and AI-driven solutions**.
+- 💬 Ask me about **Frontend Development, Game Development, and Open Source contributions**.
+- 📫 How to reach me: [GitHub](https://github.com/udhayasankar0) | [LinkedIn](https://www.linkedin.com/in/udhayasankar1/)
+- ⚡ Fun fact: I love experimenting with **new technologies, participating in hackathons, and gaming!** 🎮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💡 *"The best way to predict the future is to create it."* — Peter Drucker
