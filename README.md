@@ -4,8 +4,7 @@ I'm a **Computer Science student** and an **Open Source Enthusiast** who enjoys 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **a sequel to my Luca game, my portfolio, and building the UD Studio site**.  
-- 🌱 I’m currently learning **React, Tailwind CSS, and improving my English skills**.  
+- 🔭 I’m currently working on **a sequel to my Luca game, my portfolio, and building the UD Studio site**.    
 - 👯 I’m looking to collaborate on **Open Source, Web Development, and Game Development projects**.  
 - 🤔 I’m looking for help with **advanced web technologies and AI-driven solutions**.  
 - 💬 Ask me about **Frontend Development, Game Development, and Open Source contributions**.  
